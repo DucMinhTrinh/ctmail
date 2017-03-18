@@ -7,7 +7,13 @@ package Analytical;
 
 import Configration.AjaxPost;
 import Configration.Hosting;
+import MongoDb.Main;
+import MongoDb.MongoDBController;
+import com.mongodb.DB;
+import com.mongodb.DBCollection;
+import com.mongodb.MongoClient;
 import java.io.IOException;
+import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -202,8 +208,42 @@ public class Parser {
     
     
     
-    public static void main(String[] args) throws JSONException {
+    public static void main(String[] args) throws JSONException, UnknownHostException {
           
+        
+           //Init connect mongodb
+        MongoClient mongoClient = new MongoClient(MongoDb.Config.HOST, MongoDb.Config.defaultPort);
+        DB db = mongoClient.getDB(MongoDb.Config.Schema);
+        
+        
+        //Insert category and subCategory
+         Main.insertCategoryAndSubCategory();
+        //Connect
+        MongoDBController demo = new MongoDBController(mongoClient, db);
+        DBCollection category = db.getCollection("Category");
+        DBCollection subCategoryCol = db.getCollection("subCategory");
+        DBCollection product = db.getCollection("Production");
+        DBCollection featureImageCol = db.getCollection("featureImage");
+        DBCollection productInforCol = db.getCollection("ProductDetailInformation");
+        DBCollection compareProductCol = db.getCollection("compareProduction");
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         List CategoriesList = Parser.getJSONCategory();
         CategoriesList.forEach(new Consumer() {
             @Override
@@ -228,9 +268,11 @@ public class Parser {
                             for (int k = 0; k < smallList.size(); k++) {   
                                 if(!smallList.get(k).toString().contains("direct.htm")){
                                     try{
-                                        JSONObject js = Parser.getDetailProduct(categoryName, subCategoryName, smallList.get(k).toString());
-                                        if(js!=null){
-                                            System.out.println(js);
+                                        JSONObject json = Parser.getDetailProduct(categoryName, subCategoryName, smallList.get(k).toString());
+                                        if(json!=null){
+                                            System.out.println(json);
+                                            MongoDBController.addAProduct(json, mongoClient, db, demo, product, subCategoryCol, featureImageCol, productInforCol, compareProductCol);
+
                                         }
                                     }catch(Exception e){
 

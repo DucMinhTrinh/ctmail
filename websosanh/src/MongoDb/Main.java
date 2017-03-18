@@ -20,7 +20,10 @@ import org.json.JSONObject;
  * @author MinhPC
  */
 public class Main {
-    public static void main(String[] args) throws JSONException, UnknownHostException {
+    
+    
+    //Insert category and subcategory
+    public static void insertCategoryAndSubCategory() throws UnknownHostException, JSONException{
         
          long startTime = System.nanoTime();
          
@@ -59,6 +62,14 @@ public class Main {
                     }
                 }
             }
+        
+    }
+    public static void main(String[] args) throws JSONException, UnknownHostException {
+         
+        
+        
+        Main.insertCategoryAndSubCategory();
+        
         
     }
 }
