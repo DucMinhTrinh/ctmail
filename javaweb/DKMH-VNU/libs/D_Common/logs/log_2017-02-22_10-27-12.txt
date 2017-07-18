@@ -1,0 +1,3 @@
+[2017-02-22 10:27:12] Multiple directories are created!
+[2017-02-22 10:27:12] 123abcabcsdf
+[2017-02-22 10:27:12] 1

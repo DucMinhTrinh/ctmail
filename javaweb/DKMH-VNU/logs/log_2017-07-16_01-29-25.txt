@@ -1,0 +1,399 @@
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020000
+[2017-07-16 01:29:25] Password:16020000
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020001
+[2017-07-16 01:29:25] Password:16020001
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020002
+[2017-07-16 01:29:25] Password:16020002
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020003
+[2017-07-16 01:29:25] Password:16020003
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020004
+[2017-07-16 01:29:25] Password:16020004
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020005
+[2017-07-16 01:29:25] Password:16020005
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020006
+[2017-07-16 01:29:25] Password:16020006
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020007
+[2017-07-16 01:29:25] Password:16020007
+[2017-07-16 01:29:25] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:25] Username:16020008
+[2017-07-16 01:29:25] Password:16020008
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020009
+[2017-07-16 01:29:26] Password:16020009
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020010
+[2017-07-16 01:29:26] Password:16020010
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020011
+[2017-07-16 01:29:26] Password:16020011
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020012
+[2017-07-16 01:29:26] Password:16020012
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020013
+[2017-07-16 01:29:26] Password:16020013
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020014
+[2017-07-16 01:29:26] Password:16020014
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020015
+[2017-07-16 01:29:26] Password:16020015
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:26] Username:16020016
+[2017-07-16 01:29:26] Password:16020016
+[2017-07-16 01:29:26] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020017
+[2017-07-16 01:29:27] Password:16020017
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020018
+[2017-07-16 01:29:27] Password:16020018
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020019
+[2017-07-16 01:29:27] Password:16020019
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020020
+[2017-07-16 01:29:27] Password:16020020
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020021
+[2017-07-16 01:29:27] Password:16020021
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020022
+[2017-07-16 01:29:27] Password:16020022
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020023
+[2017-07-16 01:29:27] Password:16020023
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020024
+[2017-07-16 01:29:27] Password:16020024
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020025
+[2017-07-16 01:29:27] Password:16020025
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020026
+[2017-07-16 01:29:27] Password:16020026
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:27] Username:16020027
+[2017-07-16 01:29:27] Password:16020027
+[2017-07-16 01:29:27] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020028
+[2017-07-16 01:29:28] Password:16020028
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020029
+[2017-07-16 01:29:28] Password:16020029
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020030
+[2017-07-16 01:29:28] Password:16020030
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020031
+[2017-07-16 01:29:28] Password:16020031
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020032
+[2017-07-16 01:29:28] Password:16020032
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020033
+[2017-07-16 01:29:28] Password:16020033
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020034
+[2017-07-16 01:29:28] Password:16020034
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020035
+[2017-07-16 01:29:28] Password:16020035
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020036
+[2017-07-16 01:29:28] Password:16020036
+[2017-07-16 01:29:28] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:28] Username:16020037
+[2017-07-16 01:29:28] Password:16020037
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020038
+[2017-07-16 01:29:29] Password:16020038
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020039
+[2017-07-16 01:29:29] Password:16020039
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020040
+[2017-07-16 01:29:29] Password:16020040
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020041
+[2017-07-16 01:29:29] Password:16020041
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020042
+[2017-07-16 01:29:29] Password:16020042
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020043
+[2017-07-16 01:29:29] Password:16020043
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020044
+[2017-07-16 01:29:29] Password:16020044
+[2017-07-16 01:29:29] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:29] Username:16020045
+[2017-07-16 01:29:29] Password:16020045
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020046
+[2017-07-16 01:29:30] Password:16020046
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020047
+[2017-07-16 01:29:30] Password:16020047
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020048
+[2017-07-16 01:29:30] Password:16020048
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020049
+[2017-07-16 01:29:30] Password:16020049
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020050
+[2017-07-16 01:29:30] Password:16020050
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020051
+[2017-07-16 01:29:30] Password:16020051
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020052
+[2017-07-16 01:29:30] Password:16020052
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020053
+[2017-07-16 01:29:30] Password:16020053
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020054
+[2017-07-16 01:29:30] Password:16020054
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020055
+[2017-07-16 01:29:30] Password:16020055
+[2017-07-16 01:29:30] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:30] Username:16020056
+[2017-07-16 01:29:31] Password:16020056
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020057
+[2017-07-16 01:29:31] Password:16020057
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020058
+[2017-07-16 01:29:31] Password:16020058
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020059
+[2017-07-16 01:29:31] Password:16020059
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020060
+[2017-07-16 01:29:31] Password:16020060
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020061
+[2017-07-16 01:29:31] Password:16020061
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020062
+[2017-07-16 01:29:31] Password:16020062
+[2017-07-16 01:29:31] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:31] Username:16020063
+[2017-07-16 01:29:31] Password:16020063
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020064
+[2017-07-16 01:29:32] Password:16020064
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020065
+[2017-07-16 01:29:32] Password:16020065
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020066
+[2017-07-16 01:29:32] Password:16020066
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020067
+[2017-07-16 01:29:32] Password:16020067
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020068
+[2017-07-16 01:29:32] Password:16020068
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020069
+[2017-07-16 01:29:32] Password:16020069
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020070
+[2017-07-16 01:29:32] Password:16020070
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020071
+[2017-07-16 01:29:32] Password:16020071
+[2017-07-16 01:29:32] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:32] Username:16020072
+[2017-07-16 01:29:32] Password:16020072
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020073
+[2017-07-16 01:29:33] Password:16020073
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020074
+[2017-07-16 01:29:33] Password:16020074
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020075
+[2017-07-16 01:29:33] Password:16020075
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020076
+[2017-07-16 01:29:33] Password:16020076
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020077
+[2017-07-16 01:29:33] Password:16020077
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020078
+[2017-07-16 01:29:33] Password:16020078
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020079
+[2017-07-16 01:29:33] Password:16020079
+[2017-07-16 01:29:33] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:33] Username:16020080
+[2017-07-16 01:29:33] Password:16020080
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020081
+[2017-07-16 01:29:34] Password:16020081
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020082
+[2017-07-16 01:29:34] Password:16020082
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020083
+[2017-07-16 01:29:34] Password:16020083
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020084
+[2017-07-16 01:29:34] Password:16020084
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020085
+[2017-07-16 01:29:34] Password:16020085
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020086
+[2017-07-16 01:29:34] Password:16020086
+[2017-07-16 01:29:34] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:34] Username:16020087
+[2017-07-16 01:29:34] Password:16020087
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020088
+[2017-07-16 01:29:35] Password:16020088
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020089
+[2017-07-16 01:29:35] Password:16020089
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020090
+[2017-07-16 01:29:35] Password:16020090
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020091
+[2017-07-16 01:29:35] Password:16020091
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020092
+[2017-07-16 01:29:35] Password:16020092
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020093
+[2017-07-16 01:29:35] Password:16020093
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020094
+[2017-07-16 01:29:35] Password:16020094
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020095
+[2017-07-16 01:29:35] Password:16020095
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020096
+[2017-07-16 01:29:35] Password:16020096
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020097
+[2017-07-16 01:29:35] Password:16020097
+[2017-07-16 01:29:35] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:35] Username:16020098
+[2017-07-16 01:29:35] Password:16020098
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020099
+[2017-07-16 01:29:36] Password:16020099
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020100
+[2017-07-16 01:29:36] Password:16020100
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020101
+[2017-07-16 01:29:36] Password:16020101
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020102
+[2017-07-16 01:29:36] Password:16020102
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020103
+[2017-07-16 01:29:36] Password:16020103
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020104
+[2017-07-16 01:29:36] Password:16020104
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020105
+[2017-07-16 01:29:36] Password:16020105
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020106
+[2017-07-16 01:29:36] Password:16020106
+[2017-07-16 01:29:36] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:36] Username:16020107
+[2017-07-16 01:29:36] Password:16020107
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020108
+[2017-07-16 01:29:37] Password:16020108
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020109
+[2017-07-16 01:29:37] Password:16020109
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020110
+[2017-07-16 01:29:37] Password:16020110
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020111
+[2017-07-16 01:29:37] Password:16020111
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020112
+[2017-07-16 01:29:37] Password:16020112
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020113
+[2017-07-16 01:29:37] Password:16020113
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020114
+[2017-07-16 01:29:37] Password:16020114
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020115
+[2017-07-16 01:29:37] Password:16020115
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020116
+[2017-07-16 01:29:37] Password:16020116
+[2017-07-16 01:29:37] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:37] Username:16020117
+[2017-07-16 01:29:37] Password:16020117
+[2017-07-16 01:29:38] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:38] Username:16020118
+[2017-07-16 01:29:38] Password:16020118
+[2017-07-16 01:29:38] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:38] Username:16020119
+[2017-07-16 01:29:38] Password:16020119
+[2017-07-16 01:29:38] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:38] Username:16020120
+[2017-07-16 01:29:38] Password:16020120
+[2017-07-16 01:29:38] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:38] Username:16020121
+[2017-07-16 01:29:38] Password:16020121
+[2017-07-16 01:29:38] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:38] Username:16020122
+[2017-07-16 01:29:38] Password:16020122
+[2017-07-16 01:29:38] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:38] Username:16020123
+[2017-07-16 01:29:38] Password:16020123
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020124
+[2017-07-16 01:29:39] Password:16020124
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020125
+[2017-07-16 01:29:39] Password:16020125
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020126
+[2017-07-16 01:29:39] Password:16020126
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020127
+[2017-07-16 01:29:39] Password:16020127
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020128
+[2017-07-16 01:29:39] Password:16020128
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020129
+[2017-07-16 01:29:39] Password:16020129
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020130
+[2017-07-16 01:29:39] Password:16020130
+[2017-07-16 01:29:39] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:39] Username:16020131
+[2017-07-16 01:29:39] Password:16020131
+[2017-07-16 01:29:40] Post login to link http://dangkyhoc.vnu.edu.vn/dang-nhap
+[2017-07-16 01:29:40] Username:16020132
+[2017-07-16 01:29:40] Password:16020132

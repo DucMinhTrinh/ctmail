@@ -1,0 +1,19 @@
+[2017-07-17 23:28:01] __getHomePage
+[2017-07-17 23:28:03] CK:
+[2017-07-17 23:28:03] [version: 0][name: __RequestVerificationToken][value: D_Xc5Ix6Ov6FhM57dvPz5r2fplRY-qaBLipfxfzmfzR8dO3CYSLd_MCXkGfrUVj6Wit4PWaS-E2nwYBb-hBpfzhkY_Q1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 23:28:03] 
+
+[2017-07-17 23:28:03] __postLogin
+[2017-07-17 23:28:06] CK:
+[2017-07-17 23:28:06] [version: 0][name: ASP.NET_SessionId][value: eplq2fx3dukghuwxh3gbqhxf][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 23:28:06] [version: 0][name: __RequestVerificationToken][value: D_Xc5Ix6Ov6FhM57dvPz5r2fplRY-qaBLipfxfzmfzR8dO3CYSLd_MCXkGfrUVj6Wit4PWaS-E2nwYBb-hBpfzhkY_Q1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 23:28:06] 
+
+[2017-07-17 23:28:06] __getDangKyNghanhHoc1
+[2017-07-17 23:28:09] __post-Danh-sach-mon-hoc
+[2017-07-17 23:28:12] _____post-Danh-sach-mon-hoc_da_dang_ky
+[2017-07-17 23:28:16] _____post-Kiểm tra điều kiện tiên quyết môn học có mã là 0000096
+[2017-07-17 23:28:17] _____post-Chọn môn học có mã là 11
+[2017-07-17 23:28:17] _____post-Xác nhận đăng ký
+[2017-07-17 23:28:19] _____post-Xác nhận đăng ký
+[2017-07-17 23:28:21] _____post-Xác nhận đăng ký

@@ -1,0 +1,5 @@
+[2017-07-17 14:44:40] __getHomePage
+[2017-07-17 14:44:41] CK:
+[2017-07-17 14:44:41] [version: 0][name: __RequestVerificationToken][value: EEbUPfaD2YUY4kiqBagiYKfs7s36sL8IWJbiRnhOTjm22BV6gUsorsaITHXoDMBOGmrrd35xTpbFl1JCANYoaYTGOZQ1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 14:44:41] 
+

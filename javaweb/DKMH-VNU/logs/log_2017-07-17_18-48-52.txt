@@ -1,0 +1,12 @@
+[2017-07-17 18:48:52] __getHomePage
+[2017-07-17 18:48:56] CK:
+[2017-07-17 18:48:56] [version: 0][name: __RequestVerificationToken][value: DZmjrIEQefekPwiCwiIzBshE3uLu7w9EiFMZ0vqYWVnwqgGhsmnAiO9phnX7_0Je9unCGiNTxTyXbFPbFVWtG52LCYU1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 18:48:56] 
+
+[2017-07-17 18:48:56] __postLogin
+[2017-07-17 18:48:56] CK:
+[2017-07-17 18:48:56] [version: 0][name: ASP.NET_SessionId][value: 4n1i3hj0f2ejty1nzbewwqz4][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 18:48:56] [version: 0][name: __RequestVerificationToken][value: DZmjrIEQefekPwiCwiIzBshE3uLu7w9EiFMZ0vqYWVnwqgGhsmnAiO9phnX7_0Je9unCGiNTxTyXbFPbFVWtG52LCYU1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 18:48:56] 
+
+[2017-07-17 18:48:56] __getDangKyNghanhHoc1

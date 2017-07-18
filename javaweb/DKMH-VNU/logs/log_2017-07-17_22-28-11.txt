@@ -1,0 +1,15 @@
+[2017-07-17 22:28:11] __getHomePage
+[2017-07-17 22:28:12] CK:
+[2017-07-17 22:28:12] [version: 0][name: __RequestVerificationToken][value: WcJ1TJ3YOdDCajcDh62fRx_AsC8e95_qmdPioIcy1ogEeYFXKavL8MZ8FSjvSZsMd3Hy2vi35BRh128s3EvhRfomBjo1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 22:28:12] 
+
+[2017-07-17 22:28:12] __postLogin
+[2017-07-17 22:28:12] CK:
+[2017-07-17 22:28:12] [version: 0][name: ASP.NET_SessionId][value: vmrvpbnyk1iqroff2uiv4hum][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 22:28:12] [version: 0][name: __RequestVerificationToken][value: WcJ1TJ3YOdDCajcDh62fRx_AsC8e95_qmdPioIcy1ogEeYFXKavL8MZ8FSjvSZsMd3Hy2vi35BRh128s3EvhRfomBjo1][domain: dangkyhoc.vnu.edu.vn][path: /][expiry: null]
+[2017-07-17 22:28:12] 
+
+[2017-07-17 22:28:12] __getDangKyNghanhHoc1
+[2017-07-17 22:28:12] __post-Danh-sach-mon-hoc
+[2017-07-17 22:28:12] _____post-Danh-sach-mon-hoc_da_dang_ky
+[2017-07-17 22:28:12] _____post-Kiểm tra điều kiện tiên quyết môn học có mã là 0000096
